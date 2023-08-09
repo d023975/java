@@ -4,7 +4,7 @@ Java Update\
 \
 
 
-find . -not -type d -exec grep -i -H "Printing in the console" {} /\;
+find . -not -type d -exec grep -i -H "Printing in the console" {} \\;
  
 
 
