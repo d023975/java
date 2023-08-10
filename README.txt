@@ -8,6 +8,9 @@ You can use the shortcut sout to type quickly the println command.
 https://www.linode.com/docs/guides/how-to-install-openjdk-ubuntu-22-04/
 https://techpiezo.com/linux/change-default-java-version-in-ubuntu-22-04/
 
+for - loop
+while - loop
+
 
 Short Cuts IntelliJ
 ---------
