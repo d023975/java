@@ -18,5 +18,6 @@ Short Cuts IntelliJ
 Run: Shift+F10
 sout: System.out.println
 Set variable default values: Alt+Shift+Enter
+Usage: Ctrl Alt 7
 
 
